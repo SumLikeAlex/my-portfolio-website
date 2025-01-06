@@ -1,5 +1,3 @@
-# my-portfolio-website
-
 # **Alexander Escobar - Portfolio Website**
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and contact information as a software developer. Built using HTML, CSS, and JavaScript, it reflects my journey as a computer science student at UTA.
